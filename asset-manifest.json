@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sravanialwala/OMDB_react/static/css/main.750bf7e9.chunk.css",
+    "main.js": "/sravanialwala/OMDB_react/static/js/main.d7d76c62.chunk.js",
+    "main.js.map": "/sravanialwala/OMDB_react/static/js/main.d7d76c62.chunk.js.map",
+    "runtime-main.js": "/sravanialwala/OMDB_react/static/js/runtime-main.3f0f36d5.js",
+    "runtime-main.js.map": "/sravanialwala/OMDB_react/static/js/runtime-main.3f0f36d5.js.map",
+    "static/js/2.36d3fbde.chunk.js": "/sravanialwala/OMDB_react/static/js/2.36d3fbde.chunk.js",
+    "static/js/2.36d3fbde.chunk.js.map": "/sravanialwala/OMDB_react/static/js/2.36d3fbde.chunk.js.map",
+    "index.html": "/sravanialwala/OMDB_react/index.html",
+    "precache-manifest.0742416718662b9f3c31a2d2f27531db.js": "/sravanialwala/OMDB_react/precache-manifest.0742416718662b9f3c31a2d2f27531db.js",
+    "service-worker.js": "/sravanialwala/OMDB_react/service-worker.js",
+    "static/css/main.750bf7e9.chunk.css.map": "/sravanialwala/OMDB_react/static/css/main.750bf7e9.chunk.css.map",
+    "static/js/2.36d3fbde.chunk.js.LICENSE": "/sravanialwala/OMDB_react/static/js/2.36d3fbde.chunk.js.LICENSE",
+    "static/media/army.png": "/sravanialwala/OMDB_react/static/media/army.f2339208.png",
+    "static/media/cross.png": "/sravanialwala/OMDB_react/static/media/cross.6d33bc3a.png",
+    "static/media/imdb1.png": "/sravanialwala/OMDB_react/static/media/imdb1.6e673bc0.png",
+    "static/media/logo.svg": "/sravanialwala/OMDB_react/static/media/logo.5d5d9eef.svg",
+    "static/media/noimg.png": "/sravanialwala/OMDB_react/static/media/noimg.6525eb42.png",
+    "static/media/search.png": "/sravanialwala/OMDB_react/static/media/search.bffa89cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f0f36d5.js",
+    "static/js/2.36d3fbde.chunk.js",
+    "static/css/main.750bf7e9.chunk.css",
+    "static/js/main.d7d76c62.chunk.js"
+  ]
+}
